@@ -8,7 +8,7 @@ AI & Data Engineer — I build agentic AI systems, RAG pipelines, and the data i
 
 📜  Oracle Cloud GenAI Professional
 
-📍 Denton, TX — open to remote roles across the U.S.
+📍 open to roles across the U.S.
 
 ---
 
