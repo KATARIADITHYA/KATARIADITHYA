@@ -6,7 +6,7 @@ AI & Data Engineer — I build agentic AI systems, RAG pipelines, and the data i
 
 🏢 Previously Data Engineer at Wipro (client: Shell) — Azure data platform, Databricks, Kafka, Delta Lake
 
-📜 Microsoft Azure Data Engineer Associate (DP-203) | Oracle Cloud GenAI Professional
+📜  Oracle Cloud GenAI Professional
 
 📍 Denton, TX — open to remote roles across the U.S.
 
